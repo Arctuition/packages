@@ -1,3 +1,7 @@
+## 0.10.8+13
+
+* Fixes crash caused by IllegalArgumentException from CameraCaptureSession setRepeatingRequest call.
+
 ## 0.10.8+12
 
 * Fixes handling of autofocus state when taking a picture.
